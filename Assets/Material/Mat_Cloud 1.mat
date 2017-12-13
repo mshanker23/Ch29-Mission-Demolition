@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Mat_Cloud
+  m_Name: Mat_Cloud 1
   m_Shader: {fileID: 10, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 0
@@ -30,4 +30,4 @@ Material:
     - _Emission: 1
     - _EmissionLM: 0
     m_Colors:
-    - _Color: {r: 0.62413496, g: 0.6969783, b: 0.8161765, a: 1}
+    - _Color: {r: 0.2509804, g: 0.2509804, b: 0.2509804, a: 1}
