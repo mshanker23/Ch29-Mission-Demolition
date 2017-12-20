@@ -24,7 +24,8 @@ public class Slingshot : MonoBehaviour {
             if (S == null) return Vector3.zero;
             return S.launchPos;
         }
-    }
+    }
+
 
     private void Awake()
     {
